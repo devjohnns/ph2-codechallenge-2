@@ -1,5 +1,5 @@
 {
-  "name": "sss",
+  "name": "smart-goal-planner",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -25,3 +25,4 @@
     "vite": "^7.0.4"
   }
 }
+  
